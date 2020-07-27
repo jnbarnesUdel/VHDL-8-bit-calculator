@@ -1,0 +1,19 @@
+C:\ghdl\Ghdl\bin\ghdl.exe -a OneToFourDemux.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a FlipFlop.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a FourToOneMux.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a reg.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a SkipSelect.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a ThreeToOneMuxCon.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a WES.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a sub_add.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a add.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a display.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a ALU.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a TwoToOneMuxOutside.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a TwoToOneMuxOther.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a Controler_RegFile.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a RegFile.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a DataPath.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -a DataPath_tb.vhdl
+C:\ghdl\Ghdl\bin\ghdl.exe -e DataPath_tb
+C:\ghdl\Ghdl\bin\ghdl.exe -r DataPath_tb --vcd=DataPath.vcd
